@@ -1,0 +1,70 @@
+.icon-cell {
+    width: 16px;
+    height: 16px;
+    background: url(../sprites/main-sprite.png) no-repeat;
+    float: left;
+}
+
+.cell .one {
+    background-position: 0 -69px;
+}
+
+.cell .two {
+    background-position: -17px -69px;
+}
+
+.cell .three {
+    background-position: -34px -69px;
+}
+
+.cell .four {
+    background-position: -51px -69px;
+}
+
+.cell .five {
+    background-position: -68px -69px;
+}
+
+.cell .six {
+    background-position: -85px -69px;
+}
+
+.cell .seven {
+    background-position: -102px -69px;
+}
+
+.cell .eight {
+    background-position: -119px -69px;
+}
+
+.cell .close {
+    background-position: 0 -52px;
+}
+
+.cell .zero {
+    background-position: -17px -52px;
+}
+
+.cell .marked {
+    background-position: -34px -52px;
+}
+
+.cell .unknown {
+    background-position: -51px -52px;
+}
+
+.cell .unknown-open {
+    background-position: -68px -52px;
+}
+
+.cell .mined-open {
+    background-position: -85px -52px;
+}
+
+.cell .mined-detonated {
+    background-position: -102px -52px;
+}
+
+.cell .mined-defused {
+    background-position: -119px -52px;
+}

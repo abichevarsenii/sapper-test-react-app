@@ -1,0 +1,26 @@
+.icon-game-status {
+    width: 26px;
+    height: 26px;
+    background: url(../sprites/main-sprite.png) no-repeat;
+    float: left;
+}
+
+.game-status .start {
+    background-position: 0 -25px;
+}
+
+.game-status .start-clicked {
+    background-position: -27px -25px;
+}
+
+.game-status .surprising {
+    background-position: -54px -25px;
+}
+
+.game-status .victory {
+    background-position: -81px -25px;
+}
+
+.game-status .defeat {
+    background-position: -108px -25px;
+}

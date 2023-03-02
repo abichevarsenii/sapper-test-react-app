@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #bcbcbd;
+}
+
+main {
+    display: flex;
+    height: 300px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.field {
+    border-collapse: collapse;
+}
+
+.field td {
+    border: 1px solid #949494;
+    border-collapse: collapse;
+    padding: 0;
+}
+
+.background {
+    margin-top: 5px;
+    background-color: #949494;
+    padding: 0 30px 30px 30px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 0 2px #676767;
+}
+
+.top-menu {
+    margin: 10px 0;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,46 @@
+.icon-counter {
+    width: 13px;
+    height: 23px;
+    background: url(../sprites/main-sprite.png) no-repeat;
+    float: left;
+}
+
+.counter .one {
+    background-position: 0 0;
+}
+
+.counter .two {
+    background-position: -14px 0;
+}
+
+.counter .three {
+    background-position: -28px 0;
+}
+
+.counter .four {
+    background-position: -42px 0;
+}
+
+.counter .five {
+    background-position: -56px 0;
+}
+
+.counter .six {
+    background-position: -70px 0;
+}
+
+.counter .seven {
+    background-position: -84px 0;
+}
+
+.counter .eight {
+    background-position: -98px 0;
+}
+
+.counter .nine {
+    background-position: -112px 0;
+}
+
+.counter .zero {
+    background-position: -126px 0;
+}
